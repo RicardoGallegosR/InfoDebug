@@ -1,2 +1,2 @@
 # InfoDebug
-Libreria encargada de crear el archivo LogProcesos en la unidad C, cuandos e habilita la depuración de los procesos de las aplicaciones.
+Libreria encargada de crear el archivo LogProcesos.txt en la unidad C con la información de la libreria, método e información. Cuando se habilita la depuración de los procesos en la aplicación.
